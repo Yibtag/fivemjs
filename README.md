@@ -10,7 +10,7 @@ index.html
 ```html
 <!-- ! WARRNING ! Make sure that the fivem js script -->
 <!-- tag is above the ones youre using it in! -->
-<script src="libs/fivemjs.js"></script>
+<script src="fivemjs.js"></script>
 <script src="app.js"></script>
 ```
 
@@ -19,7 +19,7 @@ If you want to use it with defer make sure that the fivemjs tag also has defer:
 ```html
 <!-- ! WARRNING ! Make sure that the fivem js script -->
 <!-- tag is above the ones youre using it in! -->
-<script defer src="libs/fivemjs.js"></script>
+<script defer src="fivemjs.js"></script>
 <script defer src="app.js"></script>
 ```
 
